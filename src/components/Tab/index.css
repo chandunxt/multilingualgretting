@@ -1,0 +1,19 @@
+.list-item {
+  list-style: none;
+  list-style-type: none;
+}
+
+.tab-button {
+  color: #db1c48;
+  border: #db1c48 2px solid;
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin: 10px;
+  height: 35px;
+  width: 70px;
+}
+
+.active-button {
+  color: #ffffff;
+  background-color: #db1c48;
+}
